@@ -22,6 +22,7 @@ Este proyecto fue desarrollado con NextJs este framework que proporciona un poco
 Para desplegar este proyecto
 
 ```bash
+  npm install
   npm run dev
 ```
 
